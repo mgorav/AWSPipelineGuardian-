@@ -1,5 +1,0 @@
-# Ignore IntelliJ IDEA files
-.idea/
-*.iml
-out/
-gen/
